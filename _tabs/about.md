@@ -36,5 +36,5 @@ In a way, this site is my attempt of recreating something similar as a working p
 
 ## Resume
 
-Refer to [Linkedin](https://www.linkedin.com/in/lowyx/) or [pdf](../assets/info/cv_yxlow.pdf).
+Refer to [Linkedin](https://www.linkedin.com/in/david-exiga/) or [pdf](../assets/info/david_exiga_resume.pdf).
 

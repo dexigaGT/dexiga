@@ -14,18 +14,18 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: yxlow # the main title
+title: dexiga # the main title
 
-tagline: Yxlow's knowledge dump # it will display as the sub-title
+tagline: David Exiga's Website # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  My attempt in documenting and sharing my knowledge.
+  Resume Documenting
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://freedom89.github.io"
+url: "https://dexigagt.github.io/dexiga/"
 
 github:
-  username: freedom89 # change to your github username
+  username: dexigagt # change to your github username
 
 twitter:
   username: yxlowx # change to your twitter username
@@ -34,14 +34,14 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: yxlow
-  email: yx@lowyx.com # change to your email address
+  email: edavid9@gatech.edu # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/yxlowx # change to your twitter homepage
-    - https://github.com/Freedom89 # change to your github homepage
+    - https://github.com/dexigagt # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/lowyx/
+    - https://www.linkedin.com/in/david-exiga/
 
 # Site Verification Settings
 webmaster_verifications:
@@ -58,7 +58,7 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: G-N9TRN1FGV3
+    id: #G-N9TRN1FGV3
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
@@ -95,7 +95,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: assets/info/myphoto.jpeg
+avatar: assets/info/david_photo.jpeg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
